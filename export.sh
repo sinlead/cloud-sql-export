@@ -16,4 +16,5 @@ run() {
 }
 service_account_auth
 set_project
+export TZ=Asia/Taipei
 run
